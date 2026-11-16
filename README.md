@@ -1,3 +1,3 @@
 ## Project Screenshot
 
-![Job Cards](./screenshots/job-cards.png)
+![Job Cards](./screenshot/jobcard.png)
